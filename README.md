@@ -1,5 +1,7 @@
 # About
 
+## NB- None of my repos are held publicly due to rules around cheating at the University of East Anglia. Please message me to gain access. Thanks.
+
 ## Intro
 
 I am primarily interested in software engineering and machine learning. I am currently undertaking a part-time MSc in Computing Science at UEA, with modules in database manipulation, programming with Python, research methods, data mining, advanced web development, artificial intelligence and a machine learning dissertation project. I completed a bootcamp in software engineering, predominantly programming with Python using OOP principles, for which I gained a mark of 100%. I have also been learning programming in a web environment through online courses, including HTML, CSS, Javascript, Bootstrap, Django, MySQL.
